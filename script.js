@@ -1,6 +1,6 @@
 
 const CONTENT = {
-
+ 
   ui: {
     about:      { en: "About" },
     experience: { en: "Experience" },
