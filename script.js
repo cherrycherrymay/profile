@@ -43,7 +43,7 @@ const CONTENT = {
   projects: [
     {
       tag:   { en: "Cloud Application"},
-      title: { en: "Cloud Based Reverses Enginnering Sandbox" },
+      title: { en: "Cloud Based Reverse Engineering Sandbox" },
       desc:  { en: "Devloped and provisioned Windows 10 analysis workstation hosted in AWS, accessible through Terraform managed infrastructure and AWS IAM, configured with appropriate security policies, controls, and tools to perform both static and dynamic malware analysis." },
       stack: ["AWS", "Terraform", "FlameVM", "Malware Analysis", "Server provisioning"],
       url:   "#"
