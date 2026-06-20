@@ -16,7 +16,7 @@ const CONTENT = {
     text: {
       en: "This is Maysa AlGhamdi, a cybersecurity analyst with a Bachelor's degree in Computer Science, building software and offensive security tools on the side."
     },
-    Skills: ["Software Development", "Software Testing", "Reverse Engineering", "CI/DC", "Secure Coding" ],
+    Skills: ["Software Development", "Software Testing", "Reverse Engineering", "CI/CD", "Secure Coding" ],
     Tools: ["AWS", "Swagger", "Terraform", "Git"],
     Languages: ["Python", "C++", "JavaScript"]
 
