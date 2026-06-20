@@ -14,7 +14,7 @@ const CONTENT = {
 
   about: {
     text: {
-      en: "This Maysa AlGhamdi — a computer science graduate from JIC, currently working as a cybersecurity analyst and builds software and offensive security tools on the side."
+      en: "This Maysa AlGhamdi — a computer science graduate from JIC, currently working as a cybersecurity analyst, building software and offensive security tools on the side."
     },
     Skills: ["Software Development", "Software Testing", "Reverse Engineering", "CI/DC", "Secure Coding" ],
     Tools: ["AWS", "Swagger", "Terraform", "Git"],
