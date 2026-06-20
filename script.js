@@ -35,7 +35,7 @@ const CONTENT = {
     },
     {
       period: { en: "06/2024 — 10/2024" },
-      role:   { en: "ICT Infrastrcture Analyst Intern" },
+      role:   { en: "ICT Infrastructure Analyst Intern" },
       desc:   { en: "Supported network team operations and documentation." }
     }
   ],
@@ -82,7 +82,7 @@ const CONTENT = {
     { year: "2026", org: "INE", url: "https://certs.ine.com/a0c01168-452a-48b9-8c41-535b0afba8cf#acc.nKvteguW",
       title: { en: "Security Operations"} },
     { year: "2026", org: "British Council", url: "#",
-      title: { en: "EILTS 6.5" } },
+      title: { en: "IELTS 6.5" } },
     { year: "2025", org: "INE", url: "https://certs.ine.com/74a41839-de53-4f47-be79-5b828dc607e4#acc.7fYOclN0",
       title: { en: "Enterprise Defense Administrator"} },
     { year: "2024", org: "COMPTIA", url: "https://cp.certmetrics.com/CompTIA/en/public/verify/credential/3W1R3ZQSSBB1Q936",
